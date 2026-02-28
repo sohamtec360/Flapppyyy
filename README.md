@@ -1,6 +1,6 @@
 # 🐤 Flapppyyy
 
-> Flappy Bird clone built using ATmega328P and SSD1306 128x64 OLED display.
+> Flappy Bird game built using ATmega328P and SSD1306 128x64 OLED display.
 
 ---
 
@@ -8,8 +8,3 @@
 - ATmega328P
 - SSD1306 128x64 OLED
 - Push Button
-
----
-
-### 📷 Demo
-![Game Screenshot](Images/Schematics.PNG)
